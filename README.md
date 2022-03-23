@@ -9,11 +9,12 @@
 
 ## Installation <a name="installation"></a>
 
-The included code runs on the Anaconda distribution of Python.
+The included code runs on the Anaconda distribution of Python (Python v3.x).
+The processing of reviews requires [text2emotion](https://pypi.org/project/text2emotion/) v0.0.5.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this case study, I was interestested in using AirBnB data to understand:
+For this case study, I was interested in using AirBnB data to understand:
 
 1. Question a?
 2. Question b?
