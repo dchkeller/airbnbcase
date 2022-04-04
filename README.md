@@ -41,7 +41,7 @@ The code is reusable. It could be used on different regions from airbnb as well.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](link-to-my-blog).
+The main findings of the code can be found at the post available [on medium](https://medium.com/@david.ch.keller/38b5deec9261).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
